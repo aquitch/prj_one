@@ -1,0 +1,13 @@
+.inline-flex {
+    display: inline-flex;
+}
+.form-group {
+    display: block;
+    margin-bottom: 10px;
+}
+.gap {
+    margin: 5px;
+}
+button {
+    margin: 3px;
+}
